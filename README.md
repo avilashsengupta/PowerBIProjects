@@ -1,5 +1,5 @@
 # Power BI Projects
-This repository will contain all my Power BI projects
+Following are my Power BI Projects:
 
 <ul>
   <li>Pizza Sales</li>
